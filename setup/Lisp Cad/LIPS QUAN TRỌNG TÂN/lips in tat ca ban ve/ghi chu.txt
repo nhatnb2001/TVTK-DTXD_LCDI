@@ -1,0 +1,2 @@
+vnplotv20: in ca model va layout, nhuoc diem kho chon khung in
+in: in trong model good, layout khong in duoc, uu diem de chon khung in
